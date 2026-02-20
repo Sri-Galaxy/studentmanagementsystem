@@ -3,9 +3,13 @@
 ### backend
 
 to run-
-``.\mvn.cmd spring-boot:run``
+```bash
+.\mvn.cmd spring-boot:run   --save use-clipboard-copy
+```
 
 ### frontend
 
 to run-
-`` npm start``
+```bash
+npm start   --save use-clipboard-copy
+```
